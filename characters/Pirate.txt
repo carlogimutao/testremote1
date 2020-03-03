@@ -1,0 +1,5 @@
+STR:5
+DEX:5
+AGI:5
+INT:2
+VIT:1
