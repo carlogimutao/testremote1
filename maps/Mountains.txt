@@ -1,0 +1,5 @@
+Traps: ON
+Weather: Switching
+Items: OFF
+Mobs: OFF
+Boss: Medium

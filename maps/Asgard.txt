@@ -1,5 +1,5 @@
 Traps: ON
-Weather: Snow
+Weather: Sunny
 Items: OFF
 Mobs: ON
-Boss: Nightmare
+Boss: Hard
